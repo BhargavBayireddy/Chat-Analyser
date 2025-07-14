@@ -1,7 +1,8 @@
-pandas
+streamlit
 matplotlib
 seaborn
-nltk
-spacy
-streamlit
 wordcloud
+emoji
+nltk
+textblob
+pandas
